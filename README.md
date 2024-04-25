@@ -11,3 +11,4 @@ created a profeesional web portfolio using html and css to display my informatio
 ## Usage
 Provide information about me and my work experience and provide my contact information and resume to potential employers.
 ## Screenshots
+/Users/cedrichamilton/Bootcamp/challenges/react-portfolio24/screenshot/Screenshot 2024-04-24 at 11.01.21 PM.png
